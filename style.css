@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  font-family: "Inter", "Google Sans", sans-serif;
+  color: #74695a;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #e4e1dc;
+}
+
+.header {
+  margin-bottom: 10px;
+}
+
+.recipes {
+  display: inline-block;
+  padding: 0;
+}
+
+.recipes p {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.recipes ul {
+  padding: 18px;
+}
+
+.container {
+  /* margin-left: 100px; */
+  padding: 80px;
+}
+.card {
+  background-color: #d1cbc1;
+  padding: 8px 3px;
+  margin: 10px auto 0;
+}
