@@ -10,23 +10,10 @@ body {
   background-color: #e4e1dc;
 }
 
-.header {
-  margin-bottom: 10px;
+.card ul, .card ol {
+  padding: 10px 24px;
 }
 
-.recipes {
-  display: inline-block;
-  padding: 0;
-}
-
-.recipes p {
-  font-size: 23px;
-  font-weight: bold;
-}
-
-.recipes ul {
-  padding: 18px;
-}
 
 .container {
   /* margin-left: 100px; */
